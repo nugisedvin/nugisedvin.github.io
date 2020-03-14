@@ -12,6 +12,7 @@ Publikatsioonid
 * [Outline of results concerning assessment of soil compaction in Estonia]({% link assets/Nugis&Kuht AgrRes2012_IssueI_Outline of results cocern_of_soil_comp_in_Estoni_p175_180.pdf %})
 * [Kuidas vältida tootlike masintehnoloogiate negatiivset tallamismõju mullale?]({% link assets/Edvin Nugise osa kaasautoritega raamatus kodukal.doc %})
 * [Interpretation of the Soil Physical Properties through the Sign System]({% link assets/ECAG-05-00157.pdf %})
+* [Opinion Concerning Express-Diagnostics Evaluation of the Soil Physical Properties]({% link assets/Edvin_Ecronicon_2020.pdf %})
 
 
 Leiutised
