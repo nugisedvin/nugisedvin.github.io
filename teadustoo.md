@@ -13,6 +13,7 @@ Publikatsioonid
 * [Kuidas vältida tootlike masintehnoloogiate negatiivset tallamismõju mullale?]({% link assets/Edvin Nugise osa kaasautoritega raamatus kodukal.doc %})
 * [Interpretation of the Soil Physical Properties through the Sign System]({% link assets/ECAG-05-00157.pdf %})
 * [Opinion Concerning Express-Diagnostics Evaluation of the Soil Physical Properties]({% link assets/Edvin_Ecronicon_2020.pdf %})
+* [EXPRESS-DIAGNOSTICS METHOD FOR ASSESSMENT OF SOIL COMPACTION FOR DIFFERENT CULTIVATION METHODS]({% link assets/2020_1_nugis_et_al_artikkel_kui_elutoo.pdf %})
 
 
 Leiutised
